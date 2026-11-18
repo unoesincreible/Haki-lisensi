@@ -1,1 +1,1 @@
-# Haki-lisensi
+# HAKI LISENSI
