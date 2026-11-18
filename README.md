@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-teh-kataji.png" alt="Logo Teh Kataji" width="220">
+<img src="IMG-20261017-WA0000.jpg" alt="Logo Teh Kataji" width="220">
 
 # ES TEH KATAJI
 
@@ -109,7 +109,7 @@ Perlindungan merek bertujuan untuk mencegah pihak lain menggunakan nama maupun l
 
 <div align="center">
 
-### 🍵 TEH KATAJI
+### ES TEH KATAJI
 
 **Bringing Traditional Taste into Digital Innovation.**
 
